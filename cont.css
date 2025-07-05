@@ -1,0 +1,39 @@
+.submit-btn
+{
+background-color:green;  
+font-size:25px;  
+border-radius:15px;       
+color:white;                                                  
+font-weight:bold;     
+}
+.submit-btn:hover 
+ {
+background-color:blue;
+}
+.contact-form
+{
+max-width:500px;
+margin:100px;
+padding:50px;
+background-color:rgb(252,3,127);
+border-radius:50px;
+border:20px solid;
+}
+h2
+{
+text-align:center;
+color:white;
+}
+.form-tab
+{
+margin-bottom:10px;
+}
+.form-tab textarea
+{
+background-color:rgb(255,255,255);
+border-radius:15px;
+}
+.form-tab input
+{
+border-radius:15px;
+}
